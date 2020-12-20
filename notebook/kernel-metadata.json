@@ -1,0 +1,17 @@
+{
+  "id": "songzy12/riiid-lgbm-start",
+  "id_no": 12186145,
+  "title": "RiiiD LGBM Start",
+  "code_file": "riiid-lgbm-start.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "riiid-test-answer-prediction"
+  ]
+}
