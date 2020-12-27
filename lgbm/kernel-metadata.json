@@ -1,8 +1,8 @@
 {
-  "id": "songzy12/riiid-lgbm-start",
+  "id": "songzy12/riiid-lgbm",
   "id_no": 12186145,
-  "title": "RiiiD LGBM Start",
-  "code_file": "riiid-lgbm-start.ipynb",
+  "title": "Riiid LGBM",
+  "code_file": "riiid-lgbm.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": true,
